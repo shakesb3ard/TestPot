@@ -1,14 +1,11 @@
-C:\Projects\honeypot-test)
-markdown
-Copy
-Edit
-# 🐝 Honeypot Test – Rust-Based File Monitoring Honeypot
 
-A lightweight honeypot agent written in Rust that monitors a folder for suspicious activity and logs real-time file events with clean formatting and timestamping. Built for Windows systems, this project is the foundation for a broader honeypot orchestration platform.
+#Honeypot – Rust-Based File Monitoring Honeypot
+
+A lightweight honeypot agent written in Rust that monitors a folder for suspicious activity and logs real-time file events with clean formatting and timestamping. Built for Windows systems, this project is the foundation for a broader, robust honeypot platform.
 
 ---
 
-## 🔍 What It Does
+## 🔍 What It Does (for now)
 
 This honeypot agent:
 - 🆕 Detects file creation
