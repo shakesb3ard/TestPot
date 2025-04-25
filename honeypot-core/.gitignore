@@ -1,0 +1,41 @@
+# === Rust build artifacts ===
+/target
+**/*.rs.bk
+
+# === Binary files ===
+*.exe
+*.dll
+*.pdb
+
+# === Logs ===
+*.log
+
+# === Environment and secrets ===
+.env
+.env.*
+
+# === Editor/IDE settings ===
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === OS-specific ===
+Thumbs.db
+.DS_Store
+
+# === Cargo package build ===
+/Cargo.lock
+
+# === Backups ===
+*~
+*.swp
+
+# === Git ===
+.git/
+
+# === Misc (optional) ===
+debug/
+release/
