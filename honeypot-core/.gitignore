@@ -26,9 +26,6 @@
 Thumbs.db
 .DS_Store
 
-# === Cargo package build ===
-/Cargo.lock
-
 # === Backups ===
 *~
 *.swp
